@@ -14,3 +14,8 @@ This is a **Node.js-based** real-time weather alert system that fetches weather 
    ```sh
    git clone https://github.com/ajiz2004/weather-alert.git
    cd weather-alert
+##
+2. Install dependencies
+```sh
+npm install
+```
