@@ -20,6 +20,7 @@ This is a **Node.js-based** real-time weather alert system that fetches weather 
 npm install
 ```
 Tech Stack
+
 Node.js + Express.js (Backend)
 PostgreSQL (Database)
 dotenv (Environment Variables)
